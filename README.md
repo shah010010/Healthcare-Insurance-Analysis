@@ -1,4 +1,4 @@
- Healthcare Insurance Cost Analysis and Prediction
+Healthcare Insurance Cost Analysis and Prediction
 
 Project Overview
 
